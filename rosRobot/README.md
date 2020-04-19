@@ -1,6 +1,6 @@
-# rosTorch dockerfile
+# rosRobot dockerfile
 
-Scripts to create a docker image with **ROS melodic** and **pytorch** and to run a development container with **terminator**.
+Scripts to create a docker image with **ROS melodic** and **pytorch** and to run a development container with **terminator** and **pulseaudio** support.
 
 1) Build docker image with:
 
